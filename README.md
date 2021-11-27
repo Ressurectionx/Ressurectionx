@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @Ressurectionx
+- 👋 Hi, I’m Raj Pujari  AKA @Ressurectionx
+- Flutter Developer
 - 🌱 Mobile App And Web Developer
+- UI/UX Designer
+- AWS
 - 📫 mainactivity@gmail.com
 
 <!---
