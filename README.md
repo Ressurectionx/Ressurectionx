@@ -2,7 +2,7 @@
 -<h1 align="center">Hello, dis is Raj AKA Rajjo</h1>
 <h3 align="center">From India, a skilled Flutter Developer and UI/UX Designer.</h3>
 
-<p align="left"> width=200,height=200 <img src="https://komarev.com/ghpvc/?username=ressurectionx&label=Profile%20views&color=0e75b6&style=flat" alt="ressurectionx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ressurectionx&label=Profile%20views&color=0e75b6&style=flat" alt="ressurectionx" /> </p>
 
 - 🔭 me’m currently working on **measure a person's height**
 
