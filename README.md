@@ -1,16 +1,16 @@
 
--<h1 align="center">Hello, dis is Raj AKA Rajjo</h1>
+-<h1 align="center">Hello, This is Raj AKA Rajjo</h1>
 <h3 align="center">From India, a skilled Flutter Developer and UI/UX Designer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ressurectionx&label=Profile%20views&color=0e75b6&style=flat" alt="ressurectionx" /> </p>
 
-- 🔭 me’m currently working on **measure a person's height**
+- 🔭 I’m currently working on **measure a person's height using cellphone's camera**
 
 - 💬 Ask me about **Flutter,Firebase,AWS**
 
 - 📫 How to reach me **mainactivity.xml@gmail.com**
 
-- ⚡ Fun fact **My ideal day would begin wif coffee and conclude wif a protein shake.**
+- ⚡ Fun fact **My ideal day would begin with coffee and conclude with a protein shake.**
 
 <h3 align="center">Connect wif me:</h3>
 <h3 align="center">mainactivity.xml@gmail.com</h3>
