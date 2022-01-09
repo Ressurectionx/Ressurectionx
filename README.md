@@ -1,4 +1,4 @@
-<span style="color:orange;">Word up</span>
+
 -<h1 align="center">Hello, dis is Raj AKA Rajjo</h1>
 <h3 align="center">From India, a skilled Flutter Developer and UI/UX Designer.</h3>
 
