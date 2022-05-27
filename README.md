@@ -2,7 +2,7 @@
 </p>
 <p align="center">  <img src=https://user-images.githubusercontent.com/56448015/170708992-b7359ef0-7424-4b81-a271-263502c9d6b5.png
  alt="ressurectionx" /></p>
--<h1 align="center">Hello, This is Raj aka RessurectionX</h1>
+-<h1 align="center">Hello, This is RessurectionX</h1>
 <h3 align="center">From India, a skilled Mobile Application Developer(Flutter/Native) and UI/UX Designer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ressurectionx&label=Profile%20views&color=0e75b6&style=flat" alt="ressurectionx" /> </p>
