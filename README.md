@@ -6,11 +6,13 @@
 <h3 align="center">Thank you for taking the time to look at my profile.
 I am a Mobile Application Developer(Flutter/Native) and UI/UX designer in India.</h3>
 
-<h5 align="left">As a Mobile App Developer, it's both a pleasure and a duty for me to assist in the construction
-(and upkeep) process. A product that is realistic.</h5>
 <h5 align="left">
-I help people and businesses bring their next big idea to life on any phone by developing stunning, unique UIs with responsive animations.
-I am well-versed in all contemporary architectures (MVP, MVVM, BLOC, and so on) as well as OOP and functional paradigms.
+As a Mobile App Developer, it's both a pleasure and a duty for me 
+to assist in the construction(and upkeep) process. A product that is realistic.
+I help people and businesses bring their next big idea to life on 
+any phone by developing stunning, unique UIs with responsive animations.
+I am well-versed in all contemporary architectures 
+(MVP, MVVM, BLOC, and so on) as well as OOP and functional paradigms.
 </h5>
 
 
