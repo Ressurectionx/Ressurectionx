@@ -6,7 +6,7 @@
 <h3 align="center">Thank you for taking the time to look at my profile.
 I am a Mobile Application Developer(Flutter/Native) and UI/UX designer in India.</h3>
 
-<h5 align="left">
+<h5 align="left" style="color:pink">
 As a Mobile App Developer, it's both a pleasure and a duty for me 
 to assist in the construction(and upkeep) process. A product that is realistic.
 I help people and businesses bring their next big idea to life on 
