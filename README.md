@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ressurectionx&label=Profile%20views&color=0e75b6&style=flat" alt="ressurectionx" /> </p>
 
-- 🔭 I’m currently working on **measure a person's height using cellphone's camera**
+- 🔭 I’m currently learning on **Artificial Intelligence**
 
-- 💬 Ask me about **Flutter,Firebase,AWS**
+- 💬 Ask me about **Flutter, UI/UX, User Research, Figma, Firebase, AWS**
 
 - 📫 How to reach me **mainactivity.xml@gmail.com**
 
