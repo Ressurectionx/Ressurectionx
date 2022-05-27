@@ -15,6 +15,8 @@ I am well-versed in all contemporary architectures
 (MVP, MVVM, BLOC, and so on) as well as OOP and functional paradigms.
 </h5>
 
+<span style="color:red">some **This is Red Bold.** text</span>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ressurectionx&label=Profile%20views&color=0e75b6&style=flat" alt="ressurectionx" /> </p>
