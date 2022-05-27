@@ -1,6 +1,6 @@
 
--<h1 align="center">Hello, This is Raj AKA Rajjo</h1>
-<h3 align="center">From India, a skilled Flutter Developer and UI/UX Designer.</h3>
+-<h1 align="center">Hello, This is Raj aka RessurectionX</h1>
+<h3 align="center">From India, a skilled Mobile Application Developer(Flutter/Native) and UI/UX Designer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ressurectionx&label=Profile%20views&color=0e75b6&style=flat" alt="ressurectionx" /> </p>
 
