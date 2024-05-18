@@ -5,8 +5,15 @@
 -<h1 align="center">Hello, This is RessurectionX</h1>
 
 <h3 align="center" style="color: #4A90E2;">Welcome to my profile!<br>
-I am a seasoned Full-Stack Mobile App Developer 
-specializing in cutting-edge frontend and backend technologies.</h3>
+Proficient Full-Stack Mobile Developer: Excelling in Advanced Frontend and Backend Technologies
+
+
+
+
+
+
+
+.</h3>
 
 <h4 align="center" style="color: #7B8DAB;">
 With 4 years of hands-on experience, I excel in crafting seamless mobile experiences across Flutter, iOS, and Android platforms. 
