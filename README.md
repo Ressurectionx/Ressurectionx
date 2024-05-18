@@ -4,11 +4,10 @@
  alt="ressurectionx" /></p>
 -<h1 align="center">Hello, This is RessurectionX</h1>
 
-<h2 align="center" Welcome to my profile.</h2>
+<h2 align="center">Welcome to my profile.</h2>
 
-<h3 align="center" 
-Proficient Full-Stack Mobile Developer: Excelling in Advanced Frontend and Backend Technologies
-.</h3>
+<h3 align="center">Proficient Full-Stack Mobile Developer: Excelling in Advanced Frontend and Backend Technologies.</h3>
+
 
 <h4 align="center" style="color: #7B8DAB;">
 With 4 years of hands-on experience, I excel in crafting seamless mobile experiences across Flutter, iOS, and Android platforms. 
