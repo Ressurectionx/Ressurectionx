@@ -4,16 +4,26 @@
  alt="ressurectionx" /></p>
 -<h1 align="center">Hello, This is RessurectionX</h1>
 
-<h3 style="background-color: #20212C; color: #FFFFFF; text-align: center;">Welcome to my profile!</h3>
+<h3 align="center">
+$${\color{teal}Welcome \space to \space my \space profile!}$$
+<br>
+$${\color{darkslategray}I \space am \space a \space seasoned \space Full-Stack \space Mobile \space App \space Developer \space specializing \space in \space cutting-edge \space frontend \space and \space backend \space technologies.}$$
+</h3>
 
-<h5 style="color: #38B3A5;">
-With 4 years of hands-on experience, I excel in crafting seamless mobile experiences across Flutter, iOS, and Android platforms. 
-I specialize in creating stunning UIs with responsive animations and bridging the gap between front-end interfaces and robust backend systems. 
-My mastery of cloud technologies like AWS and GCP enables me to build thriving digital ecosystems, whether orchestrating serverless architectures or optimizing database performance.
+<h5 align="left">
+$${\color{mediumvioletred}With \space 4 \space years \space of \space hands-on \space experience, \space I \space excel \space in \space crafting \space seamless \space mobile \space experiences \space across \space Flutter, \space iOS, \space and \space Android \space platforms.}$$
+<br>
+$${\color{darkolivegreen}I \space specialize \space in \space creating \space stunning \space UIs \space with \space responsive \space animations \space and \space bridging \space the \space gap \space between \space front-end \space interfaces \space and \space robust \space backend \space systems.}$$
+<br>
+$${\color{mediumvioletred}My \space mastery \space of \space cloud \space technologies \space like \space AWS \space and \space GCP \space enables \space me \space to \space build \space thriving \space digital \space ecosystems, \space whether \space orchestrating \space serverless \space architectures \space or \space optimizing \space database \space performance.}$$
+</h5>
 
-Beyond my technical expertise, I am known for my collaborative spirit and adaptability in dynamic environments. 
-With a strong background in Fintech and HealthTech, I deliver end-to-end solutions using Flutter, Node.js, MySQL, AWS, and GCP. 
-Let's work together to bring your next big idea to life and achieve extraordinary results.
+<h5 align="left">
+$${\color{darkolivegreen}Beyond \space my \space technical \space expertise, \space I \space am \space known \space for \space my \space collaborative \space spirit \space and \space adaptability \space in \space dynamic \space environments.}$$
+<br>
+$${\color{mediumvioletred}With \space a \space strong \space background \space in \space Fintech \space and \space HealthTech, \space I \space deliver \space end-to-end \space solutions \space using \space Flutter, \space Node.js, \space MySQL, \space AWS, \space and \space GCP.}$$
+<br>
+$${\color{darkolivegreen}Let's \space work \space together \space to \space bring \space your \space next \space big \space idea \space to \space life \space and \space achieve \space extraordinary \space results.}$$
 </h5>
 
 
