@@ -4,15 +4,10 @@
  alt="ressurectionx" /></p>
 -<h1 align="center">Hello, This is RessurectionX</h1>
 
-<h3 align="center" style="color: #4A90E2;">Welcome to my profile!<br>
+<h2 align="center" Welcome to my profile.</h2>
+
+<h3 align="center" 
 Proficient Full-Stack Mobile Developer: Excelling in Advanced Frontend and Backend Technologies
-
-
-
-
-
-
-
 .</h3>
 
 <h4 align="center" style="color: #7B8DAB;">
