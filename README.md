@@ -5,9 +5,10 @@
 -<h1 align="center">Hello, This is RessurectionX</h1>
 
 <h3 align="center" style="color: #4A90E2;">Welcome to my profile!<br>
-I am a seasoned Full-Stack Mobile App Developer specializing in cutting-edge frontend and backend technologies.</h3>
+I am a seasoned Full-Stack Mobile App Developer 
+specializing in cutting-edge frontend and backend technologies.</h3>
 
-<h4 align="left" style="color: #7B8DAB;">
+<h4 align="center" style="color: #7B8DAB;">
 With 4 years of hands-on experience, I excel in crafting seamless mobile experiences across Flutter, iOS, and Android platforms. 
 I specialize in creating stunning UIs with responsive animations and bridging the gap between front-end interfaces and robust backend systems. 
 My mastery of cloud technologies like AWS and GCP enables me to build thriving digital ecosystems, 
