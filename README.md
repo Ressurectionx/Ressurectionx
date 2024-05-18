@@ -87,7 +87,7 @@ I am well-versed in all contemporary architectures
 
 - 🔭 I’m currently learning **Artificial Intelligence**
 
-- 💬 Ask me about **Flutter, UI/UX, User Research, Figma, Firebase, AWS**
+- 💬 Ask me about **Flutter, Mobile App Development, Node. Js, Python, AWS, GCP, Micro-Services, Firebase, UI/UX**
 
 - 📫 How to reach me **mainactivity.xml@gmail.com**
 
