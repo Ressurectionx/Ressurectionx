@@ -15,7 +15,7 @@ My mastery of cloud technologies like AWS and GCP enables me to build thriving d
 whether orchestrating serverless architectures or optimizing database performance.
 </h4>
 
-<h5 align="left" style="color: #7B8DAB;">
+<h5 align="center" style="color: #7B8DAB;">
 Beyond my technical expertise, I am known for my collaborative spirit and adaptability in dynamic environments. 
 With a strong background in Fintech and HealthTech, I deliver end-to-end solutions using Flutter, Node.js, MySQL, AWS, and GCP. 
 Let's work together to bring your next big idea to life and achieve extraordinary results.
