@@ -1,7 +1,4 @@
-<p align="left"></p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/56448015/170708992-b7359ef0-7424-4b81-a271-263502c9d6b5.png" alt="ressurectionx" />
-</p>
+
 <h1 align="center">Hello, This is RessurectionX</h1>
 <h2 align="center">Welcome to my profile.</h2>
 <h3 align="center">Full-Stack Mobile & Web Engineer | Fintech & AI-Driven Platforms</h3>
